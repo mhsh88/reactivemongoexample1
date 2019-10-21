@@ -1,0 +1,3 @@
+[submodule "reactivemongoexample1"]
+	path = reactivemongoexample1
+	url = ./src/main/java/ir/sharifi/reactivemongoexample1/
